@@ -20,3 +20,10 @@ function logWhisper(string){
 //   retung "YES INDEED!"
 // } else if string === "I love you, Grandma."
 
+function sayHiToGrandma(string){
+  if (string === string.toLowerCase()){
+    return 
+  } 
+}
+}
+}
