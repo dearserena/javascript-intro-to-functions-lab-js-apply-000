@@ -13,3 +13,9 @@ function logShout(string){
 function logWhisper(string){
   console.log(string.toLowerCase());
 }
+
+if string === a copy of string at lower case then{
+  return "I can\'t hear you!"
+} else if string === a copy of string at upper case{
+  retung "YES INDEED!"
+} else if string === "I love you, Grandma."
